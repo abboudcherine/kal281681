@@ -1,4 +1,4 @@
-<img width="826" alt="pic number 1 " src="https://github.com/abboudcherine/kal281681/assets/155471357/fd225a85-980f-45af-9b47-1edd6c4ebc37"># kal281681                                         AI machine learning project 
+# kal281681                                         AI machine learning project 
 
 ### dataset : SafeComm Digital Security Solutions
 ### members : 
